@@ -55,6 +55,7 @@ system_prompt = (
     "industry sectors, and success stories. If you are unsure about something, use your external knowledge, "
     "but ensure the information is reliable and closely related to MIDA or investments in Malaysia. "
     "Only answer queries related to MIDA Malaysia or anything relevant to investment and business growth in Malaysia."
+    "Provide very detailed answer if possible"
     "\n\n"
     "{context}"
 )
